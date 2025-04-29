@@ -79,9 +79,7 @@ If you have ideas or improvements, feel free to fork the repo and submit a pull 
 ## 🧑‍💻 Developed By
 ### KRISHNARAJ D
 ### LinkedIn
-```
-https://www.linkedin.com/in/krishnaraj-d-b156b5280/
-```
+🔗 [LinkedIn](https://www.linkedin.com/in/krishnaraj-d-b156b5280/)
 ## 🌐 Live Demo
 
 🔗 [walletwardenweb.netlify.app](https://walletwardenweb.netlify.app)

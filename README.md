@@ -1,6 +1,6 @@
 # 💼 Wallet Warden
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/de7a6d94-2efe-4d5d-807a-e7d577e4a2a3/deploy-status)](https://app.netlify.com/sites/walletwardenweb/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de7a6d94-2efe-4d5d-807a-e7d577e4a2a3/deploy-status)](https://walletwardenweb.netlify.app)
 
 
 **Your Personal Expense Manager**  

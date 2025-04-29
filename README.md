@@ -1,4 +1,6 @@
 # 💼 Wallet Warden
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://walletwardenweb.netlify.app)
+
 
 **Your Personal Expense Manager**  
 Wallet Warden is a web application designed to help users efficiently track their daily expenses, manage tasks, and visualize financial data—all with secure authentication powered by Supabase.
@@ -79,3 +81,6 @@ If you have ideas or improvements, feel free to fork the repo and submit a pull 
 ```
 https://www.linkedin.com/in/krishnaraj-d-b156b5280/
 ```
+## 🌐 Live Demo
+
+🔗 [walletwardenweb.netlify.app](https://walletwardenweb.netlify.app)
